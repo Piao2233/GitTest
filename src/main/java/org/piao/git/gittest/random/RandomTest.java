@@ -14,6 +14,6 @@ public class RandomTest {
         log.info("GitGitGitGitGitGit1");
         log.info("GitGitGitGitGitGit2");
         log.info("GitGitGitGitGitGit3");
-        log.info("hot-fix");
+        log.info("hot-fix-test");
     }
 }
