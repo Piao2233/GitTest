@@ -13,5 +13,6 @@ public class RandomTest {
         log.info("GitGitGitGitGitGit");
         log.info("GitGitGitGitGitGit1");
         log.info("GitGitGitGitGitGit2");
+        log.info("GitGitGitGitGitGit3");
     }
 }
