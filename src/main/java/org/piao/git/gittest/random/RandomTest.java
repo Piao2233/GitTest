@@ -11,5 +11,7 @@ public class RandomTest {
 
     public static void main(String[] args) {
         log.info("GitGitGitGitGitGit");
+        log.info("GitGitGitGitGitGit1");
+        log.info("GitGitGitGitGitGit2");
     }
 }
