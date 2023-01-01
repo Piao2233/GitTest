@@ -17,7 +17,5 @@ public class RandomTest {
         log.info("hot-fix-test");
         log.info("master-test");
         log.info("hot-fix-test");
-        log.info("push-test");
-        log.info("push-test");
     }
 }
